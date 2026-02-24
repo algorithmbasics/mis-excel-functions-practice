@@ -1,31 +1,6 @@
-# Project Status Report
+# Excel 
 
-## Week 1 - January 6, 2026
-- Project initiated
-- Team members assigned
-- Initial budget approved: $50,000
+## String Assignment
 
-
-***
-
-
-## Week 2 - January 13, 2026
-- Vendor contracts signed
-- Development phase started
-- Budget remaining: $45,000
-
-
-***
-
-## Week 3 - January 20, 2026
-- Major milestone achieved
-- Budget: $42,000
-
-
-***
-
-## Week 4 - January 27, 2026
-- Funding acquired
-- Budget: $12,000
-
-
+-  employee data, click [here](https://raw.githubusercontent.com/algorithmbasics/mis-excel-functions-practice/refs/heads/main/employee.csv).
+    -  practice excel string functions: &, LEN, CONCAT, TRIM, and SUBSTR (MID, LEFT, RIGHT)
